@@ -1,0 +1,29 @@
+.mr-5{
+color:rgb(211, 9, 59);
+}
+
+mr-5 :hover{
+    color:rgb(228, 206, 15);
+}
+
+.Button{
+    transition-duration: 0.4s;
+      background-color: #91d637; 
+      border-radius: 42px;
+      font-size: 26px;
+      padding: 12px 28px;
+      color: rgb(139, 20, 20);
+      
+  }
+  .Button :hover{
+    color: rgb(108, 222, 226);
+    text-shadow: 0 0 3px #1b539b, 0 0 5px #0d7cbd;
+  }
+  .header :hover{
+    color: rgb(190, 7, 7);
+    text-shadow: 0 0 3px #21a533, 0 0 5px #a0df2c;
+  }
+
+  .header {
+      font-size: 23px;
+  }
